@@ -13,9 +13,10 @@
     "build": "brunch build --production"
   },
   "dependencies": {
-    "jquery": "^3",
+    "bootstrap": "^4.0.0",
+    "bootstrap-rtl": "latest",
     "bootstrap-sass": "latest",
-    "bootstrap-rtl": "latest"
+    "jquery": "^3.3.1"
   },
   "devDependencies": {
     "assetsmanager-brunch": "latest",
